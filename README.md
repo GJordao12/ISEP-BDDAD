@@ -1,4 +1,3 @@
-# ISEP-BDDAD
+# ISEP-BDDAD (2º Ano 1º Semestre)
 
->Cadeira do 2º Ano 1º Semestre\n
->Projetos e Trabalhos da Faculdade
+>Projetos e Trabalhos da Faculdade em PLSQL
