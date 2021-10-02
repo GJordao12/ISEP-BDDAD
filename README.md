@@ -1,4 +1,4 @@
 # ISEP - BDDAD (2º YEAR - 1º SEMESTER)
-* Language: SQL and PLSQL
-* University BDDAD Projects and Works
-* Year: 2020
+* University BDDAD **Projects** and **Works**
+* **Languages and Tools:** SQL and PLSQL
+* **Year:** 2020
